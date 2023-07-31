@@ -7,5 +7,7 @@ ARG GIT_ASKPASS
 ARG GIT_ACCESS_TOKEN
 COPY git-askpass /
 
+RUN pip3 install --upgrade nbconvert
+
 RUN pip3 install -U --no-cache-dir \
     allensdk --ignore-installed ruamel.yaml
