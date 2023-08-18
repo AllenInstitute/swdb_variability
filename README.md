@@ -1,5 +1,3 @@
-# aind-capsule-template
+# SWDB Variability
 
-Basic structure of a capsule to be customized as needed.
-
-link to capsule: https://codeocean.allenneuraldynamics.org/capsule/1500140/tree
+This repo contains notebooks and problems sets for the Summer Workshop on the Dynamic Brain 2023 Variability tutorial.
