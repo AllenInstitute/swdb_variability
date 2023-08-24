@@ -16,7 +16,7 @@ jupyter nbconvert \
 	--ExecutePreprocessor.allow_errors=True \
 	--ExecutePreprocessor.timeout=-1 \
 	--FilesWriter.build_directory=../results \
-	--execute solution/Day5_ProblemSet_with_solution.ipynb
+	--execute solution/Day5_ProblemSet_with_solutions.ipynb
 
 
 # python -u run_capsule.py "$@"
